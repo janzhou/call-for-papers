@@ -2,4 +2,4 @@ name: Call for Papers
 description: The computer world is a world of dialect.
 url: https://janzhou.org
 baseurl: call-for-papers
-permalink: date
+permalink: /:year-:month-:day-:title.html
